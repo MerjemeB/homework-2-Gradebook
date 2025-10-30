@@ -10,3 +10,5 @@
 2025-10-30 11:56:04,996 - gradebook.storage - INFO - Successfully saved data to data/gradebook.json
 2025-10-30 12:16:08,132 - gradebook.storage - INFO - Successfully loaded data from data/gradebook.json
 2025-10-30 12:16:08,165 - gradebook.storage - INFO - Successfully saved data to data/gradebook.json
+2025-10-30 13:32:55,953 - gradebook.storage - INFO - Successfully loaded data from data/gradebook.json
+2025-10-30 13:32:56,016 - gradebook.storage - INFO - Successfully saved data to data/gradebook.json
