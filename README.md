@@ -46,7 +46,7 @@ gradebook/
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/MerjemeB/homework-2-Gradebook.git
 cd gradebook
 ```
 
