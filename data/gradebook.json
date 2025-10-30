@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith"
+    },
+    {
+      "id": 3,
+      "name": "Carol Davis"
+    },
+    {
+      "id": 4,
+      "name": "Filan Fisteku"
+    },
+    {
+      "id": 5,
+      "name": "Merjeme Bajrami"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GIT101",
+      "title": "Git & GitHub"
+    },
+    {
+      "code": "PY201",
+      "title": "Python Essentials 2"
+    },
+    {
+      "code": "PY101",
+      "title": "Python Essentials 1"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "GIT101",
+      "grades": [
+        85.0,
+        90.0,
+        88.0
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "PY201",
+      "grades": [
+        92.0,
+        95.0,
+        90.0
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "GIT101",
+      "grades": [
+        78.0,
+        82.0,
+        80.0
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "PY101",
+      "grades": [
+        85.0,
+        88.0,
+        90.0
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "PY201",
+      "grades": [
+        90.0,
+        92.0,
+        94.0
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "PY101",
+      "grades": [
+        87.0,
+        85.0,
+        89.0
+      ]
+    }
+  ]
+}
